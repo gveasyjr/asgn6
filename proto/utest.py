@@ -12,7 +12,7 @@ class TestMeanStat(unittest.TestCase):
 
     def test_mean_neg_float_int(self):
         self.assertEqual(median_stat([-1, 4, 0.5, 2.5]), 1.5)
-'''
+
 class TestMedianStat(unittest.TestCase):
     def test_median_int(self):
         self.assertEqual(median_stat([5, 3, 17]), 5)
@@ -25,4 +25,3 @@ class TestMedianStat(unittest.TestCase):
     
     def test_median_neg_float_int(self):
         self.assertEqual(median_stat([-1, 4, .5, 2.5]), 1.5)
-'''
