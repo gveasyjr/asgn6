@@ -1,0 +1,15 @@
+test_mean_int (utest.TestMeanStat.test_mean_int) ... ok
+test_mean_neg_float_int (utest.TestMeanStat.test_mean_neg_float_int) ... ok
+test_mean_one_int (utest.TestMeanStat.test_mean_one_int) ... ok
+test_median_int (utest.TestMedianStat.test_median_int) ... ok
+test_median_many_int (utest.TestMedianStat.test_median_many_int) ... ok
+test_median_neg_float_int (utest.TestMedianStat.test_median_neg_float_int) ... ok
+test_median_neg_int (utest.TestMedianStat.test_median_neg_int) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK
+27b2c1c finished mean unittest
+5ebd085 mean unit test finished
+6a6ae49 Initial commit
